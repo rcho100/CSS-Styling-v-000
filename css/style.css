@@ -53,9 +53,9 @@ figcaption {
   font-family: 'Elsie Swash Caps', cursive;
 }
 
-/* Psuedo class selector */
+/* Psuedo-class selector */
 
-#details a:link, #details a:visited { /* this combines descendant selectors with psuedo class selector and compound selector */
+#details a:link, #details a:visited { /* this combines descendant selectors with psuedo-class selector and compound selector */
   color: black;
   text-decoration: none;
 }
